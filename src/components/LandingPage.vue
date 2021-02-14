@@ -94,7 +94,9 @@
                     <img class="card-img-top" src="../assets/offers/ankara splitted.jpg" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Ankara</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p class="card-text">
+                            SHop for this fine female Ankara wears. 20% off because this is love
+                        </p>
                         <a href="#" class="text">Shop now</a>
                     </div>
                 </div>
@@ -300,6 +302,7 @@
 
         .img-slide {
             margin-top: 30px;
+            margin-bottom: 0 !important;
         }
 
         .img-slide img {
