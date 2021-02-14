@@ -95,7 +95,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Ankara</h5>
                         <p class="card-text">
-                            SHop for this fine female Ankara wears. 20% off because this is love
+                            Shop for this fine female Ankara wears. 20% off because this is love season
                         </p>
                         <a href="#" class="text">Shop now</a>
                     </div>
@@ -105,7 +105,9 @@
                     <img class="card-img-top" src="../assets/offers/brown shoe.jpg" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Brown Show</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p class="card-text">
+                            Shop for this fine Male brown shoe. 20% off because this is love season
+                        </p>
                         <a href="#" class="text">Shop now</a>
                     </div>
                 </div>
@@ -114,7 +116,7 @@
                     <img class="card-img-top" src="../assets/offers/ribbon skirt.jpg" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Ribbon Skirt</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p class="card-text">Shop for this fine female Ankara wears. 20% off because this is love season</p>
                         <a href="#" class="text">Shop now</a>
                     </div>
                 </div>
@@ -124,7 +126,7 @@
                     <img class="card-img-top" src="../assets/offers/Brown Tuxedo.jpg" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Brown Tuxedo</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p class="card-text">Shop for this fine female Ankara wears. 20% off because this is love season</p>
                         <a href="#" class="text">Shop now</a>
                     </div>
                 </div>
